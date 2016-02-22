@@ -101,7 +101,7 @@ const uint16_t PROGMEM port_to_mode_PGM[] =
   (uint16_t) &DDRB,
 };
 
-const (int16_t PROGMEM port_to_output_PGM[] = 
+const int16_t PROGMEM port_to_output_PGM[] = 
 {
   NOT_A_PORT,
   (uint16_t) &PORTA,
